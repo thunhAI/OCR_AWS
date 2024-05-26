@@ -1,0 +1,6 @@
+fastapi==0.75.0
+boto3
+pillow
+uvicorn==0.23.2
+requests
+python-dotenv
